@@ -1,0 +1,51 @@
+.but {
+    margin-left: 30px;
+    border-radius: 6px;
+    padding: 1px;
+    
+}
+.seconddate {
+    margin-left: 30px;
+}
+.prog {
+    margin-top: 20px;
+    
+}
+.proga {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.firstdate {
+    margin-left: 300px;
+}
+.pers {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.q {
+    margin-left: 20px;
+}
+main {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    flex-direction: row
+}
+.card {
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.mes {
+    padding-left: 10px;
+}
+.btn1 {
+    margin-left: 10px;
+}
+
+.fn {
+    padding-left: 10px;
+}
+
+
+
